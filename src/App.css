@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+body{
+  background-image: url(https://ca-times.brightspotcdn.com/dims4/default/ae98cf1/2147483647/strip/true/crop/1643x924+203+0/resize/1200x675!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fea%2F32%2F1a0ac8364f4e2b94151059b1c098%2Fsdut-this-undated-image-proivided-by-20160824);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+img{
+  opacity: 0.4;
+}
+h1{
+  color: aliceblue;
+}
+button{
+  background-color: red;
+  font-size: 25px;
+  margin:15px;
+}
